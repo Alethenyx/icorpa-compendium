@@ -1,0 +1,7 @@
+title: Alethenyx ICORPA Compendium
+description: High-fidelity, high-entropy empirical data anchors.
+theme: jekyll-theme-minimal
+
+# This line kills the "View on GitHub" and "Edit" buttons on many themes
+show_downloads: false
+google_analytics:

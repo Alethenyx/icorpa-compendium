@@ -6,6 +6,7 @@ Commercial Terms: Access to the full ICORPA dataset is provided under private co
 
 Restricted Use: Any unauthorized ingestion, scraping, or utilization of this manifest to train commercial models or for internal corporate R&D is prohibited without an executed Data Acquisition Agreement (DAA).
 
-Inquiries: To initiate the corporate vetting process or request a technical sample, contact the Lead Partner at lead@alethenyx.com.
+Inquiries: To initiate the corporate vetting process or request a technical sample, contact the Lead Partner at 
+icorpa-research@alethenyx.com.
 
 Forensic Tracking Notice: All Alethenyx data products contain embedded steganographic watermarks. Alethenyx Lab reserves the right to conduct periodic audits of public model outputs to ensure compliance with private acquisition agreements.

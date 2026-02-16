@@ -17,7 +17,7 @@ This repository hosts the official SHA-256 cryptographic manifest for the ICORPA
 * **Audit-Ready Provenance:** Every shard is cryptographically signed.
 * **Commercial Exclusivity:** Alethenyx data is not sourced from common-crawl or open-web public dumps.
 
-*## Security & Governance
+## Security & Governance
 * **Steganographic Watermarking:** Every data shard is uniquely watermarked. This allows Alethenyx to trace data leakage back to the specific corporate environment, ensuring total asset protection for the buyer.
 * **Full Auditability:** Our data is fully auditable for compliance. Each entry includes comprehensive metadata, allowing your internal governance teams to verify source integrity and ethical data lineage. 
 

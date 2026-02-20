@@ -1,5 +1,5 @@
-# icorpa-compendium
-# Alethenyx ICORPA Compendium (Alpha v0.9)
+# intelligent-corpa-compendium
+# Alethenyx INTELLIGENT CORPA Compendium (Alpha v0.9)
 
 Alethenyx provides high-fidelity, high-entropy empirical data anchors developed for internal LLM alignment and proprietary research. 
 
@@ -12,7 +12,7 @@ This repository will serve as the cryptographic verification layer for the ICORP
 * **Data Integrity:** SHA-256 Collateralized
 * **Availability:** Air-Gapped / Cold Storage
 
-## Why ICORPA?
+## Why INTELLIGENT CORPA?
 * **High-Entropy Anchors:** Designed for deep-layer model alignment.
 * **Audit-Ready Provenance:** Every shard is cryptographically signed.
 * **Research Exclusivity:** Alethenyx data is not sourced from common-crawl or open-web public dumps.

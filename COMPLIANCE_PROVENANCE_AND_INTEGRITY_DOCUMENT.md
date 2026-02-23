@@ -60,7 +60,7 @@ Block 017 | 38,016 pairs | Root: e1911295410ed86731e1eda7dcb9975d205717e8ee34da1
 
 
 
-Current Total: 617,589 verified pairs across 14 blocks
+Current Total: 617,589 verified pairs across 17 blocks,
 Merkle tree verification | HITL reference files available
 
 [Future blocks append and update timestamp]

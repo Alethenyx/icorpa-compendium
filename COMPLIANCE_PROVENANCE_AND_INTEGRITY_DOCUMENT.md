@@ -22,7 +22,7 @@ Unauthorized distribution is a breach of the Chain-of-Custody. Touch it, own the
 
 V. CRYPTOGRAPHIC BIRTH-HASH REGISTRY (ROOTS)
 
-Blocks Updated: 2026-02-22
+Blocks Updated: 2026-02-26
 
 Block 001 | 43,177 pairs | Root: da58b11ad53468d4e49ff820418323afe1c2a30f0973602a9133c25b80dacfe5
 
@@ -58,9 +58,11 @@ Block 016 | 33,834 pairs | Root: a1ebd67bcd0211be63ef0eef7d622c7e465053ac040955c
 
 Block 017 | 38,016 pairs | Root: e1911295410ed86731e1eda7dcb9975d205717e8ee34da10912818b413e97bc9
 
+Block 018 | 1,698 pairs | Root: 3211b6f59645a1eadb537a38cd42e8c50727afb37bd16be8c9bc8c3ef38f3aaa
 
-
-Current Total: 617,589 verified pairs across 17 blocks,
+Block 019 | 79,893 pairs | Root: 572293517e540bc695889d2d74e1584031b2404b015da58734e12a94f1ecac4b
+  
+Current Total: 698,980 verified pairs across 19 blocks,
 Merkle tree verification | HITL reference files available
 
 [Future blocks append and update timestamp]
